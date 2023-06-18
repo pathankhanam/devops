@@ -1,0 +1,5 @@
+git ls
+git status
+git add .
+git commit "commit msg"
+
